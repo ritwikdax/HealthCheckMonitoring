@@ -1,0 +1,185 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+:root {
+  --bg-color: #f7f8fa;
+  --font-color-pri: #20293b;
+  --font-color-sec: #4d5e80;
+  --white: #ffffff;
+  --btn-bg: #8833ff;
+  --color1: #8833ff;
+  --color2: #f00039;
+  --color3: #ed7245;
+  --color4: #776767;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--font-color-pri);
+}
+
+header {
+  background-color: var(--white);
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+button {
+  background-color: var(--btn-bg);
+  color: white;
+  padding: 0.8rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  margin: 0.2rem;
+}
+button:focus {
+  outline: none;
+}
+
+p span {
+  color: var(--font-color-sec);
+}
+h3 {
+  color: var(--font-color-sec);
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+/*Custom Class*/
+
+.content {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+}
+
+.content-left {
+  width: 80%;
+  padding-right: 2rem;
+}
+
+.content-right {
+  width: 20%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
+.check-time {
+  margin-right: 1rem;
+}
+
+.main-grid-container {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+  background-color: var(--white);
+  border-radius: 0.2rem;
+  position: relative;
+  padding: 2rem;
+  cursor: pointer;
+}
+
+.grid-item h3 {
+  margin-bottom: 0.5rem;
+}
+
+.grid-item:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.pie-chart {
+  grid-column: 4;
+  grid-row: 1 / span 3;
+}
+
+.icon {
+  width: 1.5rem;
+  fill: #ffffff;
+  padding: 0;
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+.color1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.5rem;
+  background-color: var(--color1);
+  border-radius: 0.2rem 0 0 0.2rem;
+}
+
+.color1 h2 {
+  color: var(--color1);
+}
+
+.color2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.5rem;
+  background-color: var(--color2);
+  border-radius: 0.2rem 0 0 0.2rem;
+}
+
+.color2 h2 {
+  color: var(--color2);
+}
+
+.color3::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.5rem;
+  background-color: var(--color3);
+  border-radius: 0.2rem 0 0 0.2rem;
+}
+
+.color3 h2 {
+  color: var(--color3);
+}
+
+.color4::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.5rem;
+  background-color: var(--color4);
+  border-radius: 0.2rem 0 0 0.2rem;
+}
+
+.color4 h2 {
+  color: var(--color4);
+}
+.chart {
+  width: 20%;
+  margin: auto;
+}
