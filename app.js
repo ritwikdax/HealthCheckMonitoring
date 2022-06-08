@@ -1,7 +1,7 @@
 const express = require("express");
 var apiData = require("./util/formatData");
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 const path = require("path");
 
 const myLogger = function (req, res, next) {
