@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "status": "OK",
+    "hostname": "VMAPPCHN4210",
+    "role": "ApplicationServer",
+    "owner": "AppSupp@Company.com",
+    "service": "opensshd",
+    "serviceStatus": "running",
+    "checkedOn": "Thursday, June 2, 2022 11:41:31 PM"
+  }
+]

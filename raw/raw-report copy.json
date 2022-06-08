@@ -1,0 +1,5970 @@
+[
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "id": 2,
+    "owner": "WEb@Company.com",
+    "hostname": "PHUNWCHN2365",
+    "ip": "10.236.14.29",
+    "role": "Web App Server",
+    "status": "error"
+  },
+  {
+    "id": 2,
+    "owner": "WEb@Company.com",
+    "hostname": "VMWSULON2365",
+    "ip": "10.236.14.29",
+    "role": "Web App Server",
+    "status": "error"
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 18,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.25",
+    "status": "ok",
+    "role": "Application Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAPPET2365",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 41214595072
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "AppSupp@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 95,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMADCHYS6323",
+    "upTime": {
+      "Days": 18,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 70.80475219379558,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "Wintel@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "cpuUtil": 10,
+    "ramFreeSpace": 2418880,
+    "ip": "10.216.17.126",
+    "status": "ok",
+    "role": "Domain Controller Server",
+    "domain": "CompanyDomain.COM",
+    "hostname": "VMAVSCHN6323",
+    "upTime": {
+      "Days": 90,
+      "Hours": 10,
+      "Minutes": 46,
+      "Seconds": 51
+    },
+    "ramSize": 8285184,
+    "ramUtil": 82,
+    "checkedOn": "Sunday, June 5, 2022 2:07:56 AM",
+    "disksData": [
+      {
+        "Caption": "C:",
+        "Size": 119401316352,
+        "VolumeName": "System",
+        "FreeSpace": 27041742848
+      },
+      {
+        "Caption": "E:",
+        "Size": 209714147328,
+        "VolumeName": "Samrat",
+        "FreeSpace": 51181891584
+      },
+      {
+        "Caption": "F:",
+        "Size": 311285510144,
+        "VolumeName": "New Volume",
+        "FreeSpace": 311105510144
+      },
+      {
+        "Caption": "G:",
+        "Size": 209714147328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 43028414464
+      },
+      {
+        "Caption": "H:",
+        "Size": 269482979328,
+        "VolumeName": "New Volume",
+        "FreeSpace": 11851239424
+      }
+    ],
+    "owner": "VM@Company.com",
+    "topProcesses": [
+      {
+        "Name": "Code",
+        "CPU": 1708.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1139.40625
+      },
+      {
+        "Name": "chrome",
+        "CPU": 1031.328125
+      },
+      {
+        "Name": "chrome",
+        "CPU": 767.046875
+      },
+      {
+        "Name": "Taskmgr",
+        "CPU": 598.546875
+      }
+    ],
+    "os": "Microsoft Windows Server 2016",
+    "cpu": 2,
+    "id": 1
+  },
+  {
+    "id": 2,
+    "owner": "WEb@Company.com",
+    "hostname": "PHUNWCHN2365",
+    "ip": "10.236.14.29",
+    "role": "Web App Server",
+    "status": "error"
+  },
+  {
+    "id": 2,
+    "owner": "WEb@Company.com",
+    "hostname": "VMWSULON2365",
+    "ip": "10.236.14.29",
+    "role": "Web App Server",
+    "status": "error"
+  },
+  {
+    "id": 2,
+    "owner": "WEb@Company.com",
+    "hostname": "VMTERNYC5623",
+    "ip": "10.236.14.29",
+    "role": "Web App Server",
+    "status": "error"
+  }
+]

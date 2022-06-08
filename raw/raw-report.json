@@ -1,0 +1,87 @@
+[
+    {
+        "cpuUtil":  10,
+        "ramFreeSpace":  2598740,
+        "ip":  "10.216.17.25",
+        "status":  "ok",
+        "role":  "ApplicationServer",
+        "domain":  "WORKGROUP",
+        "hostname":  "RITWIK-PC",
+        "upTime":  {
+                       "Days":  1,
+                       "Hours":  6,
+                       "Minutes":  21,
+                       "Seconds":  19
+                   },
+        "ramSize":  8285184,
+        "ramUtil":  68.633889120627856,
+        "checkedOn":  "Monday, June 6, 2022 8:59:37 PM",
+        "disksData":  [
+                          {
+                              "Caption":  "C:",
+                              "Size":  119401316352,
+                              "VolumeName":  "System",
+                              "FreeSpace":  26917412864
+                          },
+                          {
+                              "Caption":  "E:",
+                              "Size":  209714147328,
+                              "VolumeName":  "Samrat",
+                              "FreeSpace":  51181891584
+                          },
+                          {
+                              "Caption":  "F:",
+                              "Size":  311285510144,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  41214722048
+                          },
+                          {
+                              "Caption":  "G:",
+                              "Size":  209714147328,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  43028414464
+                          },
+                          {
+                              "Caption":  "H:",
+                              "Size":  269482979328,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  11851239424
+                          }
+                      ],
+        "owner":  "AppSupp@Company.com",
+        "topProcesses":  [
+                             {
+                                 "Name":  "msedgewebview2",
+                                 "CPU":  2025.34375
+                             },
+                             {
+                                 "Name":  "wfica32",
+                                 "CPU":  1616.125
+                             },
+                             {
+                                 "Name":  "chrome",
+                                 "CPU":  1613.65625
+                             },
+                             {
+                                 "Name":  "msedgewebview2",
+                                 "CPU":  1296.0625
+                             },
+                             {
+                                 "Name":  "chrome",
+                                 "CPU":  622.609375
+                             }
+                         ],
+        "os":  "Microsoft Windows 11 Pro",
+        "cpu":  2,
+        "id":  1
+    },
+    {
+        "id":  2,
+        "owner":  "WEb@Company.com",
+        "hostname":  "RITWGHH",
+        "ip":  "10.236.14.20",
+        "checkedOn":  "Monday, June 6, 2022 8:59:42 PM",
+        "role":  "WebAppServer",
+        "status":  "error"
+    }
+]

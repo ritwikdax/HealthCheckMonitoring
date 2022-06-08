@@ -1,0 +1,83 @@
+[
+    {
+        "cpuUtil":  25,
+        "ramFreeSpace":  1776116,
+        "ip":  null,
+        "status":  "ok",
+        "role":  "ApplicationServer",
+        "domain":  "WORKGROUP",
+        "hostname":  "RITWIK-PC",
+        "upTime":  {
+                       "Days":  0,
+                       "Hours":  10,
+                       "Minutes":  12,
+                       "Seconds":  52
+                   },
+        "ramSize":  8285184,
+        "ramUtil":  78.562745257075761,
+        "checkedOn":  "Sunday, June 5, 2022 1:33:57 AM",
+        "disksData":  [
+                          {
+                              "Caption":  "C:",
+                              "Size":  119401316352,
+                              "VolumeName":  "System",
+                              "FreeSpace":  27037265920
+                          },
+                          {
+                              "Caption":  "E:",
+                              "Size":  209714147328,
+                              "VolumeName":  "Samrat",
+                              "FreeSpace":  51181891584
+                          },
+                          {
+                              "Caption":  "F:",
+                              "Size":  311285510144,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  41214595072
+                          },
+                          {
+                              "Caption":  "G:",
+                              "Size":  209714147328,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  43028414464
+                          },
+                          {
+                              "Caption":  "H:",
+                              "Size":  269482979328,
+                              "VolumeName":  "New Volume",
+                              "FreeSpace":  11851239424
+                          }
+                      ],
+        "owner":  "AppSupp@Company.com",
+        "topProcesses":  [
+                             {
+                                 "Name":  "Code",
+                                 "CPU":  1348.34375
+                             },
+                             {
+                                 "Name":  "chrome",
+                                 "CPU":  1099.96875
+                             },
+                             {
+                                 "Name":  "chrome",
+                                 "CPU":  1024.6875
+                             },
+                             {
+                                 "Name":  "chrome",
+                                 "CPU":  763.046875
+                             },
+                             {
+                                 "Name":  "Taskmgr",
+                                 "CPU":  490.078125
+                             }
+                         ],
+        "os":  "Microsoft Windows 11 Pro",
+        "cpu":  2,
+        "id":  1
+    },
+    {
+        "status":  "error",
+        "id":  2,
+        "hostname":  "RITWGHH"
+    }
+]

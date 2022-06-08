@@ -16,40 +16,203 @@
     />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <title>Document</title>
   </head>
   <body>
     <header>
-      <div>
-        <h1>Dashboard</h1>
+      <div class="logo">
+        <img src="./images/watchtower.png" />
+        <h1>WatchIT</h1>
       </div>
       <div>
-        <span class="check-time">Last Checked : Today 10:20 AM</span
-        ><button class="btn">Refresh</button>
+        <span class="check-time" id="last-checked"
+          >Last Checked : Today 10:20 AM</span
+        ><button class="btn" id="fetch-new">Refresh</button>
       </div>
     </header>
-    <div class="content">
+    <div>
+      <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li>Dashboard</li>
+      </ul>
+    </div>
+    <div class="loading">
+      <div class="loadingio-eclipse">
+        <div class="ldio-rpinwye8j0b">
+          <div></div>
+        </div>
+      </div>
+    </div>
+    <div class="content" id="main-content" style="display: none">
       <div class="content-left">
         <div class="main-grid-container">
           <div class="grid-item color1">
-            <h3>Total Server</h3>
-            <h2>256</h2>
+            <h3>Total Servers</h3>
+            <h2 id="total-servers">256</h2>
             <span class="material-symbols-outlined icon"> info </span>
           </div>
           <div class="grid-item color2">
             <h3>Critical Alerts</h3>
-            <h2>6</h2>
+            <h2 id="critical-alerts">6</h2>
             <span class="material-symbols-outlined icon"> info </span>
           </div>
           <div class="grid-item color3">
             <h3>Warning</h3>
-            <h2>12</h2>
+            <h2 id="warning">12</h2>
             <span class="material-symbols-outlined icon"> info </span>
+          </div>
+
+          <div class="grid-item data" id="all-alerts">
+            <table>
+              <tr>
+                <th>No.</th>
+                <th>Hostname</th>
+                <th>IP Address</th>
+                <th>Message</th>
+                <th>Status</th>
+                <th>Role & Owner</th>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="critical">Critical</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="critical">Critical</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+            </table>
+          </div>
+          <div class="grid-item data">
+            <h3>Summary</h3>
+            <table>
+              <tr>
+                <th>No.</th>
+                <th>Hostname</th>
+                <th>IP Address</th>
+                <th>Message</th>
+                <th>Status</th>
+                <th>Role & Owner</th>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="critical">Critical</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="critical">Critical</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>VMAPPPET2352</td>
+                <td>10.216.2.23</td>
+                <td>Disk is running out of space</td>
+                <td><span class="warning">Warning</span></td>
+                <td>Application Server (AppSupp@company.com)</td>
+              </tr>
+            </table>
           </div>
         </div>
       </div>
       <div class="content-right">
+        <div class="server-details grid-item">
+          <h3>Servers Details:</h3>
+          <table id="server-detail" style="width: 100%">
+            <tr>
+              <th>Name:</th>
+              <td>Bill Gates</td>
+            </tr>
+            <tr>
+              <th>Telephone:</th>
+              <td>555 77 854</td>
+            </tr>
+            <tr>
+              <th>Telephone:</th>
+              <td>555 77 855</td>
+            </tr>
+          </table>
+        </div>
         <div class="pie-chart grid-item">
           <canvas
             id="myChart"
@@ -58,16 +221,13 @@
             role="img"
           ></canvas>
         </div>
+        <div class="card mt">
+          <h3>Contact Details:</h3>
+          <ul>
+            <li>Application Team</li>
+          </ul>
+        </div>
       </div>
-    </div>
-
-    <div class="chart">
-      <canvas
-        id="myChart"
-        width="10%"
-        aria-label="Hello ARIA World"
-        role="img"
-      ></canvas>
     </div>
     <script src="./scripts/script.js"></script>
   </body>

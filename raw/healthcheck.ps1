@@ -52,8 +52,8 @@
 <##>
 
 $ScriptPath = Get-Location
-$ServerList = Import-CSV "$ScriptPath\Servers.csv" –Header Server, Role, Owner
-$ReportFileName = "$ScriptPath\report.json"
+$ServerList = Import-CSV "$ScriptPath\Servers.csv" –Header Server, IP, Role, Owner
+$ReportFileName = "$ScriptPath\raw-report.json"
 
 
 # Create output files and nullify display output
@@ -92,10 +92,9 @@ try{
     #Populating Data
     $ServerData = @{
         id = $id
-        status = "OK"
-        serverName = $ServerName
-        hostname = $OSDetails.CSName
-        ip = $Networks.IPAddress
+        status = "ok"
+        hostname = $ServerName
+        ip = $($Server.IP)
         role = $($Server.Role)
         owner = $($Server.Owner)
         os = $OSDetails.Caption
@@ -121,8 +120,13 @@ try{
     Write-Host "Fetching Report Failed! - $ServerName Communication Error"
     $ServerData = @{
         id = $id
-        status = "ERROR"
-        serverName = $ServerName
+        status = "error"
+        hostname = $ServerName
+	  ip = $($Server.IP)
+        role = $($Server.Role)
+        owner = $($Server.Owner)
+	  checkedOn = Get-Date | Select-Object -ExpandProperty DateTime
+
 
     }
 
