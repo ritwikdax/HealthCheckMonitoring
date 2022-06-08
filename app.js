@@ -39,6 +39,11 @@ app.get("/server", (req, res) => {
   let hostname = req.query.hostname;
   res.json(apiData.mapData.get(hostname));
 });
+
+app.get("/all-servers", (req, res) => {
+  res.json(apiData.allServers);
+});
+
 const reloadModule = (req, res, next) => {
   delete require.cache[require.resolve("./util/formatData")];
   apiData = require("./util/formatData");

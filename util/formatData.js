@@ -119,6 +119,7 @@ let statusReport = {
   commError: 0,
 };
 
+//Update Status Report Value
 for (let k = 0; k < alertsData.length; k++) {
   let item = alertsData[k];
   //console.log(item);
@@ -131,6 +132,30 @@ for (let k = 0; k < alertsData.length; k++) {
   }
 }
 
+//getAllServersDetails
+let allServers = [];
+function getAllServers() {
+  let item = {};
+  var server;
+  for (let i = 0; i < rawstatusReport.length; i++) {
+    server = rawstatusReport[i];
+    //console.log(server);
+    item.hostname = server.hostname;
+    item.ip = server.ip;
+    item.role = server.role;
+    item.owner = server.owner;
+    allServers.push(item);
+    item = {};
+  }
+}
+getAllServers();
+
 console.log("Data Processed");
 
-module.exports = { statusReport, alertsData, mapData, stakeholders };
+module.exports = {
+  statusReport,
+  alertsData,
+  mapData,
+  stakeholders,
+  allServers,
+};
